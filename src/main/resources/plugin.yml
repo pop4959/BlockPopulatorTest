@@ -1,0 +1,5 @@
+name: BlockPopulatorTest
+version: ${project.version}
+main: org.popcraft.blockpopulatortest.BlockPopulatorTest
+api-version: 1.15
+load: STARTUP
